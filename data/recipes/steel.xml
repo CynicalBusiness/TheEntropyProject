@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+	<meta display_name="&amp;8Steel &amp;7Smelting" description="Smelts steel from iron and coal."/>
+	<shape input1=" C  C  C , CIICIIC , C SCS C " output="         ,  ss ss  ,   c c   " fuel_cost="16"/>
+    <keys>
+    	<key char="C" material="COAL" amount="8"/>
+    	<key char="I" material="IRON_INGOT" amount="16"/>
+		<key char="S" material="STONE:0" amount="16"/>
+		<key char="s" material="!steel" amount="8"/>
+		<key char="c" material="COBBLESTONE|GRAVEL" amount="16"/>
+	</keys>
+</recipe>

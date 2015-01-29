@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aegis>
+	<meta name="tier2" display_name="&amp;eTier 2 &amp;aAegis" description="A basic Aegis with Altar support."/>
+	<data health="1500" entropy="150" radius="70"/>
+	<matrix width="11" height="7" depth="11" chestX="5" chestY="5" chestZ="5">
+	       <matrixY>
+	               <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	               <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_BLOCK:0"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	               <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="QUARTZ_BLOCK:2"/>
+	                       <matrixX material="SMOOTH_BRICK"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_BLOCK:0"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="SMOOTH_BRICK"/>
+	                       <matrixX material="QUARTZ_BLOCK:2"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	               <matrixZ>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="SMOOTH_BRICK"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX materail="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="SMOOTH_BRICK"/>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="AIR"/>
+	              </matrixZ>
+	              <matrixZ>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	              </matrixZ>
+	              <matrixZ>
+	                      <matrixX material="QUARTZ_STAIRS"/>
+	                      <matrixX material="QUARTZ_BLOCK:0"/>
+	                      <matrixX material="QUARTZ_BLOCK:0"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="QUARTZ_BLOCK:0"/>
+	                      <matrixX material="QUARTZ_BLOCK:0"/>
+	                      <matrixX material="QUARTZ_STAIRS"/>
+	              </matrixZ>
+	              <matrixZ>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="OBSIDIAN"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	                      <matrixX material="AIR"/>
+	              </matrixZ>
+	              <matrixZ>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="SMOOTH_BRICK"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="OBSIDIAN"/>
+	                        <matrixX material="SMOOTH_BRICK"/>
+	                        <matrixX material="AIR"/>
+	                        <matrixX material="AIR"/>
+	              </matrixZ>
+	              <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="QUARTZ_BLOCK:2"/>
+	                       <matrixX material="SMOOTH_BRICK"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_BLOCK:0"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="SMOOTH_BRICK"/>
+	                       <matrixX material="QUARTZ_BLOCK:2"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	               <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_BLOCK:0"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	               <matrixZ>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="QUARTZ_STAIRS"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	                       <matrixX material="AIR"/>
+	               </matrixZ>
+	       </matrixY>
+	       <matrixY>
+	  		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SEA_LANTERN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="QUARTZ_BLOCK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SEA_LANTERN"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="QUARTZ_BLOCK:0"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="QUARTZ_BLOCK:0"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="OBSIDIAN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SEA_LANTERN"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="QUARTZ_BLOCK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SMOOTH_BRICK"/>
+	       			<matrixX material="SEA_LANTERN"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       </matrixY>
+	       <matrixY>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="SMOOTH_STAIRS"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       </matrixY>
+	       <matrixY>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STONE_SLAB2:0"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STONE_SLAB2:0"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="GOLD_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STONE_SLAB2:0"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_STAIRS"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STONE_SLAB2:0"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="QUARTZ_BLOCK:2"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       </matrixY>
+	       <matrixY>
+	       	<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="REDSTONE_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="REDSTONE_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STEP:7"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STEP:7"/>
+	       			<matrixX material="GLASS|BEACON"/>
+	       			<matrixX material="STEP:7"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="STEP:7"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="REDSTONE_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="REDSTONE_BLOCK"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       </matrixY>
+		<matrixY>
+			<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="CHEST"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+	       		<matrixZ>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       			<matrixX material="AIR"/>
+	       		</matrixZ>
+		</matrixY>
+		<matrixY>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+			<matrixZ>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+				<matrixX material="AIR"/>
+			</matrixZ>
+		</matrixY>
+	</matrix>
+</aegis>
