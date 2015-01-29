@@ -26,7 +26,25 @@
             <artifactId>bukkit</artifactId>
             <version>1.8-R0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>EntropyAPI</groupId>
+            <artifactId>EntropyAPI</artifactId>
+            <scope>system</scope>
+            <version>1.0</version>
+            <systemPath>${basedir}\libs\EntropyAPI.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>HolographicDisplays</groupId>
+            <artifactId>HolographicDisplays</artifactId>
+            <scope>system</scope>
+            <version>1.0</version>
+            <systemPath>${basedir}\libs\HolographicDisplays.jar</systemPath>
+        </dependency>
     </dependencies>
 
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
 </project>

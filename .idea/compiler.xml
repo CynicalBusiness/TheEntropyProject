@@ -26,5 +26,8 @@
         <module name="TheEntropyProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TheEntropyProject" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
