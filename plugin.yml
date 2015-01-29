@@ -1,0 +1,21 @@
+main: me.capit.tep.TEPPlugin
+version: 1.00.00
+name: The_Entropy_Project
+
+softdepend: ['EntropyAPI', 'HolographicDisplays']
+
+prefix: TEP
+description: 'The primary plug-in for The_Entropy_Project.'
+
+author: Matthew Struble
+authors: ['Matthew Struble', 'Wyatt Snyder']
+
+commands:
+  groups:
+    usage: 'ERROR: Unknown or invalid argument. Try /group help'
+    description: Commands for managing groups.
+    aliases: ['g', 'group']
+  aegis:
+    usage: 'ERROR: Unknown or invalid argument. Try /group help'
+    description: Commands for working with Aegises.
+    aliases: ['a']
