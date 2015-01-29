@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EntropyAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/EntropyAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://capit.me/jdocs/EntropyAPI/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
